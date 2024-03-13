@@ -37,9 +37,9 @@ function App() {
         <>
           <img
             alt="bear with heart"
-            src="https://gifdb.com/images/high/cute-bear-throwing-heart-qhlc0ankggfephov.gif"
+            src="https://gifdb.com/images/high/kiss-goodnight-cute-bears-dl1g095ttb1rr8i8.gif"
           />
-          <div style={{ fontFamily: "Arial", fontSize: "50px" }}>
+          <div style={{ fontFamily: "cursive", fontSize: "50px" }}>
             Will you be my Valentine?
           </div>
 
