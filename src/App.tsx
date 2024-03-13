@@ -56,6 +56,8 @@ function App() {
                 border: "none",
                 fontSize: `${fontSize}px`,
                 color: "white",
+                fontWeight: "bold",
+                fontFamily: "cursive",
               }}
               onClick={() => setYesPressed(true)}
             >
@@ -71,6 +73,8 @@ function App() {
                 borderRadius: "10%",
                 border: "none",
                 color: "white",
+                fontWeight: "bold",
+                fontFamily: "cursive",
               }}
             >
               {getNoButtonText()}
